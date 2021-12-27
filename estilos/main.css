@@ -1,0 +1,63 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+
+
+}
+
+main {
+  background-color: rgb(252, 181, 252);
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+h1{
+  font-size: 3rem;
+  text-align:center;
+}
+
+p {
+  font-size: 1.8rem;
+  text-align:center;
+}
+
+.container {
+  width: auto;
+  max-width: 90%;
+  padding: 0 15px;
+}
+
+hr {
+  height: 10px;
+  color:black;
+}
+
+.purple {
+  margin:4px;
+  background-color:purple;
+}
+
+li {
+  font-size: 1.8rem;
+}
+
+a {
+  font-size: 1.5rem;
+}
+
+.panel-body {
+  font-size: 1.5rem;
+}
+
+.panel-heading {
+  font-size: 4rem;
+}
+
+.panel-default {
+  font-size: 4rem;
+}
